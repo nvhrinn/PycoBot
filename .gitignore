@@ -42,33 +42,8 @@ typings/
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-
-# next.js build output
-.next
-
-assets/fonts/*
-assets/emojis/*
-
-!.gitkeep
-.vercel
-
-# Framework XYZ
+# chocopys
 .vscode
-session
-test
 backup
-./package-lock.json
+dist/session/
+package-lock.json

@@ -1,62 +1,41 @@
-# ZaydenBot Multi Device
+# Pyco Bot WhatsApp
+Simple WhatsApp Bot using libary baileys @whiskeysockets/baileys
 
-This is a WhatsApp bot script created by me and my friends, and friends who have helped create this script. I created this with the aim of learning Javascript and studying frameworks and libraries from the NPM and GitHub sites themselves,
+## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-<p align="center"> 
-    <img src="https://telegra.ph/file/9100d1deefbb6360efa8e.png" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-
-
-
-
-## Installation
+## Installation the scripts
 ```bash
 apt update && apt upgrade -y
 apt install git ffmpeg curl -y 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 source ~/.bashrc
 nvm install v22.3.0
-git clone https://github.com/xyzencode/ZaydenBot
-cd ZaydenBot
+git clone https://github.com/Rasya25/PycoBot
+cd PycoBot
 npm install
 ```
-## Running The Script
+## Start Bot
 ```bash
 npm start
 
-&
+or
 
-npm run pm2:start
+node .
 ```
 
-## Features
+## License
 
-- Support All Running
-- Simple The Code
-- No Encrypt
-- Fast Respon
-- Simple Menu
-- Free Recode
-- No Used API
-- No Scan
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+## Acknowledgements
 
-## Authors
+-   Author : [Rasya](https://github.com/Rasya25) for creating and maintaining this project.
 
-- [Zayden](https://github.com/xyzencode)
+## Contact
+
+If you have any questions or concerns, feel free to contact me on WhatsApp: [@chocopydevs](https://wa.me/6285791346128) or email me at [contact@rasyafs.me](mailto:contact@rasyafs.me).
 
 
-## Feedback
+## Contributing
 
-If you have any feedback, please reach out to us at owner@zayden.dev
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new features to suggest.
