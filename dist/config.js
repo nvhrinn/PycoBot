@@ -9,7 +9,7 @@ import { fileURLToPath } from "url";
 import fs from "fs";
 
 export default {
-    numbot: "6287777056787",
+    numbot: "628xxx",
     owner: [
         "6285791346128"
         // if u have secc num
@@ -40,31 +40,21 @@ export default {
         ]
     },
     mess: {
-        admin: "Fitur Hanya Digunakan Oleh Admin",
-        owner: "Hanya Pemilik yang Bisa Menggunakan Perintah Ini",
-        group: "Perintah Ini Hanya Berfungsi di Grup",
-        private: "Perintah Ini Hanya Berfungsi di Chat Pribadi",
-        wait: "Mohon Tunggu, Sedang Diproses...",
-        error: "Terjadi Kesalahan, Silakan Coba Lagi Nanti",
-        ban: "Anda Dilarang Menggunakan Bot Ini",
-        botAdmin: "Bot Harus Menjadi Admin Untuk Menggunakan Perintah Ini",
-        endLimit: "Batas Telah Tercapai",
-        notAllow: "Anda Tidak Diizinkan Menggunakan Perintah Ini",
-        notfound: 'Tidak Ditemukan',
-        success: "Berhasil",
-        reply: "Mohon Balas Pesan",
+        admin: "Features Only Used By Admin",
+        owner: "Only Owner Can Use This Command",
+        group: "This Command Only Works in Groups",
+        private: "This Command Only Works in Private Chat",
+        wait: "waitt bruh...",
+        error: "An Error Occurred, Please Try Again Later",
+        baned: "You are prohibited from using this bot",
+        botAdmin: "the bot must be an admin",
+        endLimit: "Limit Has Been Reached",
+        notfound: 'Not found 404 ',
+        success: "Succeed",
+        reply: "Please Reply Message",
         media: {
             default: "Mohon Balas Media",
-            image: "Mohon Balas Gambar",
-            video: "Mohon Balas Video",
-            sticker: "Mohon Balas Stiker",
-            audio: "Mohon Balas Audio",
-            url: 'Mohon Kirimkan Tautan',
-            prompt: "Mohon Balas Prompt",
-            file: "Mohon Balas File",
-            contact: "Mohon Balas Kontak",
-            forward: "Mohon Balas Forward",
-            query: "Mohon Balas Query",
+            query: "Enter the query please",
         }
     }
 }
